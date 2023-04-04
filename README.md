@@ -1,9 +1,11 @@
 # Insurance-Management-System
 Sigorta yönetimi için bir yazılım.</br>
 </br>
-Output: </br>
+Input: </br>
 Mail address : xxxxxxxxx@hotmail.com  </br>
 Password : 123  </br>
+</br>
+Output: </br>
 -----------------------Müşteri Bilgileri-----------------------  </br>
 Name: John </br>
 Surname: Stones </br>
